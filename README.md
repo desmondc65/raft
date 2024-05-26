@@ -3,7 +3,7 @@
 Author: Justin Chen <<mail@justin0u0.com>>
 
 # Verification
-![image](raft/image.png)
+![image](image.png)
 # Goal
 
 This is a Raft implementation providing with a template code (at branch `template`) with well designed structure, 10 test cases for verifying your implementation.
